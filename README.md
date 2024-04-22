@@ -21,7 +21,7 @@ Go to the project directory
 Start the project
 
 ```bash
-  python bmi_program.py
+  python program.py
 ```
 
 
